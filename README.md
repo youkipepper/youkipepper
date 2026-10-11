@@ -12,8 +12,4 @@ $ open orcid
 https://orcid.org/0009-0008-8089-3449
 ```
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=youkipepper&theme=crt">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=youkipepper&theme=crt">
-  <img alt="stats" src="https://pixel-profile.vercel.app/api/github-stats?username=youkipepper&theme=crt">
-</picture>
+<img alt="stats" src="https://pixel-profile.vercel.app/api/github-stats?username=youkipepper&background=%23000&color=%2333ff66&hide=avatar">
